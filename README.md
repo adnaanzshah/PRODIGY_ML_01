@@ -19,18 +19,18 @@ pip install pandas matplotlib seaborn numpy scikit-learn
 ## Usage
 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/your_username/housing-price-prediction.git
+https://github.com/adnaanzshah/PRODIGY_ML_01.git
 ```
 
 2. Navigate to the repository directory:
 ```
-cd housing-price-prediction
+cd PRODIGY_ML_01
 ```
 
 3. Download the dataset (`train.csv`) and place it in the repository directory.
 4. Run the Python script:
 ```
-python housing_price_prediction.py
+python linear regression.py
 ```
 
 The script will perform the following steps:
